@@ -17,3 +17,10 @@ L.E.X.A. is a Python-based language translation tool that integrates multiple fe
    ```bash
    git clone https://github.com/junaidsj/lexa.git
    cd lexa
+
+## 👨‍💻 Developed By
+
+**Junaid Ahamed**  
+_Data Science Intern @ CODEALPHA_  
+📅 Submitted: April 2025
+
